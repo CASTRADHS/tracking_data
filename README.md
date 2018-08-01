@@ -9,7 +9,9 @@ The datasets consists of sensor data as well as Gogle Play API that labels the  
 Papers produced under this dataset 
 
 •Devu Manikantan Shila, Kunal Srivastava, Kishore Reddy, Paul O’Neil, Vincent Sritapan, "A multi-faceted approach to user authentication for mobile devices – using human movement, usage and location patterns", IEEE Homeland Security & Technology HST (2016), Waltham, MA
+
 •Devu Manikantan Shila, Kunal Srivastava, Seamless and Unobtrusive Authentication of Users to Diverse Mobile Services, IEEE IoT journal, 28 June 2018 
+
 •Devu Manikantan Shila, Emeka Eyisi, Adversarial Gait Detection on Mobile Devices Using Recurrent Neural Networks, IEEE Trustcomm, 2018, NY. 
 
 
